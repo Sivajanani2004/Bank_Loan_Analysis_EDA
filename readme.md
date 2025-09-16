@@ -22,7 +22,8 @@ This project focuses on analyzing bank loan data to understand borrower behavior
 
 ## Live Demo
 View the interactive Streamlit app here:  
-[Bank Loan Analysis Dashboard](https://eda_app.py.streamlit.app/)
+[Bank Loan Analysis Dashboard](https://bank-loan-analysis-eda-sivajanani2004.streamlit.app/)
+
 
 ## How to Run
 1. Clone the repository:
